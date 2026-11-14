@@ -1,0 +1,29 @@
+{
+  "id": 438631,
+  "results": {
+    "US": {
+      "link": "https://www.themoviedb.org/movie/438631-dune/watch?locale=US",
+      "flatrate": [{ "provider_id": 1899, "provider_name": "Max" }],
+      "rent": [{ "provider_id": 2, "provider_name": "Apple TV Store" }, { "provider_id": 3, "provider_name": "Google Play Movies" }],
+      "buy": [{ "provider_id": 2, "provider_name": "Apple TV Store" }]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/movie/438631-dune/watch?locale=FR",
+      "buy": [{ "provider_id": 2, "provider_name": "Apple TV Store" }]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/438631-dune/watch?locale=GB",
+      "flatrate": [
+        { "provider_id": 39, "provider_name": "Now TV" },
+        { "provider_id": 591, "provider_name": "Now TV Cinema" },
+        { "provider_id": 9, "provider_name": "Amazon Prime Video" }
+      ],
+      "ads": [
+        { "provider_id": 9, "provider_name": "Amazon Prime Video with Ads" },
+        { "provider_id": 73, "provider_name": "Tubi TV" }
+      ],
+      "rent": [{ "provider_id": 10, "provider_name": "Amazon Video" }]
+    },
+    "XX": { "link": "https://example.com" }
+  }
+}
